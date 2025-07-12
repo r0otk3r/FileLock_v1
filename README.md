@@ -95,3 +95,10 @@ This project is licensed under the MIT License.
 
 This project is intended for educational and testing purposes only.
 Do not use it for malicious activity or to handle sensitive data in production systems without a proper security audit.
+
+---
+
+## Official Channels
+
+- [YouTube @rootctf](https://www.youtube.com/@rootctf)
+- [X @r0otk3r](https://x.com/r0otk3r)
